@@ -38,6 +38,14 @@ latest version.
 go/no-go authority), blind cross-family jury-reviewed (producing model family excluded from the bench), and
 reviewed against the source ledgers by the human authors before publication.
 
+
+## Explainer
+
+Bilingual visual explainer of this work:
+
+- **EN** — [`explainer/en.html`](explainer/en.html) · [rendered](https://htmlpreview.github.io/?https://github.com/NarchTech/accumulating-context-agent/blob/main/explainer/en.html)
+- **TR** — [`explainer/tr.html`](explainer/tr.html) · [rendered](https://htmlpreview.github.io/?https://github.com/NarchTech/accumulating-context-agent/blob/main/explainer/tr.html)
+
 ## License
 
 [CC BY 4.0](LICENSE).
